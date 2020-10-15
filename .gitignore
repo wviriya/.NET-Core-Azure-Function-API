@@ -353,4 +353,7 @@ MigrationBackup/
 
 local.settings.json
 .telemetry
+/.vscode
 .vscode
+/dist
+dist
