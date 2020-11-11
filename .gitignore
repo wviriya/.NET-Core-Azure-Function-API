@@ -357,3 +357,5 @@ local.settings.json
 .vscode
 /dist
 dist
+**/*deployscript.azcli
+**/azure.json
